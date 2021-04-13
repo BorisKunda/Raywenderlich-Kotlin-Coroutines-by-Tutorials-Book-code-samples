@@ -1,3 +1,4 @@
+/**starter*/
 fun main() {
   val user = getUserStandard("101")
 

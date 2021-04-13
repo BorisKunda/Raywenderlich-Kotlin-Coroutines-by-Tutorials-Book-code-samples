@@ -5,6 +5,7 @@ import java.io.File
 import kotlin.coroutines.resume
 import kotlin.coroutines.suspendCoroutine
 
+/**final*/
 fun main() {
 
   GlobalScope.launch {
